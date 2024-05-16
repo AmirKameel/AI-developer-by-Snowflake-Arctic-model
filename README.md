@@ -9,17 +9,17 @@ Data Visualization: Visualize data through correlation heatmaps, pairplots, hist
 Machine Learning: Train regression or classification models with options to fine-tune model parameters and evaluate model performance.
 Snowflake Arctic Interaction: Interact with Snowflake Arctic, a powerful language model, by providing dataset features and queries to generate intelligent responses.
 Getting Started
-Clone the Repository: Clone this repository to your local machine using the following command:
+# Clone the Repository: Clone this repository to your local machine using the following command:
 
-# git clone <repository_url>
+ git clone <repository_url>
 
-Install Dependencies: Navigate to the project directory and install the required dependencies using pip:
+# Install Dependencies: Navigate to the project directory and install the required dependencies using pip:
 
-# pip install -r requirements.txt
+ pip install -r requirements.txt
 
-Run the Application: Start the Streamlit application by running the following command:
+# Run the Application: Start the Streamlit application by running the following command:
 
-# streamlit run app.py
+ streamlit run app.py
 
 Explore the Application: Once the application is running, you can navigate through different pages using the sidebar and interact with each feature accordingly.
 
