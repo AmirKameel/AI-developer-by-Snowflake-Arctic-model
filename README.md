@@ -11,15 +11,15 @@ Snowflake Arctic Interaction: Interact with Snowflake Arctic, a powerful languag
 Getting Started
 Clone the Repository: Clone this repository to your local machine using the following command:
 
-نسخ الكود
+
 git clone <repository_url>
 Install Dependencies: Navigate to the project directory and install the required dependencies using pip:
 
-نسخ الكود
+
 pip install -r requirements.txt
 Run the Application: Start the Streamlit application by running the following command:
 
-نسخ الكود
+
 streamlit run app.py
 Explore the Application: Once the application is running, you can navigate through different pages using the sidebar and interact with each feature accordingly.
 
