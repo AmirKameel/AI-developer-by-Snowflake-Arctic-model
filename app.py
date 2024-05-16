@@ -12,8 +12,6 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, GradientBoostingRegressor, GradientBoostingClassifier
 from sklearn.linear_model import LinearRegression, LogisticRegression
 import os
-from dotenv import load_dotenv
-from pandasai import Agent
 import streamlit as st
 import pandas as pd
 from sklearn.model_selection import train_test_split
