@@ -1,3 +1,8 @@
 streamlit
 replicate
 transformers
+matplotlib
+numpy
+seaborn
+scikit-learn
+sentence_transformers
