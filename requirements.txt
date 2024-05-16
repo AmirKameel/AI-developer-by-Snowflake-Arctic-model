@@ -6,3 +6,4 @@ numpy
 seaborn
 scikit-learn
 sentence_transformers
+python-dotenv
