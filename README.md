@@ -5,8 +5,11 @@ Welcome to the AI Fullstack Developer project! This project is designed to provi
 
 # Features
 Data Analysis: Upload datasets, explore data statistics, and preprocess data with various options such as handling missing values, outliers, and encoding categorical variables.
+
 Data Visualization: Visualize data through correlation heatmaps, pairplots, histograms, scatter plots, and boxplots to gain insights into the dataset.
+
 Machine Learning: Train regression or classification models with options to fine-tune model parameters and evaluate model performance.
+
 Snowflake Arctic Interaction: Interact with Snowflake Arctic, a powerful language model, by providing dataset features and queries to generate intelligent responses.
 Getting Started
 # Clone the Repository: Clone this repository to your local machine using the following command:
