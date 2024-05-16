@@ -441,10 +441,7 @@ elif page == "**Machine Learning 🤖**":
         st.write("Please upload a dataset in the Data Analysis page.")
 
 
-
-
-
-elif page == "**Blow Your Mind 🧑⚡**":
+elif page == "**Blow Your Mind With Arctic 🧑⚡**":
     st.session_state.page = "interact_with_data"
 
     if st.session_state.df is not None:
