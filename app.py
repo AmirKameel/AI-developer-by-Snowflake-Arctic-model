@@ -501,7 +501,7 @@ elif page == "**Blow Your Mind With Arctic 🧑⚡**":
                 # Display Snowflake Arctic response
                 st.write("### Model Response")
                 st.write_stream(response)
-                # Your project code ends here
+                
 
     else:
         st.write("Please upload a dataset in the Data Analysis page.")
