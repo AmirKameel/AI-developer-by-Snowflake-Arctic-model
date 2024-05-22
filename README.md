@@ -14,7 +14,7 @@ Snowflake Arctic Interaction: Interact with Snowflake Arctic, a powerful languag
 Getting Started
 # Clone the Repository: Clone this repository to your local machine using the following command:
 
- git clone <repository_url>
+ git clone https://github.com/AmirKameel/AI-developer-by-Snowflake-Arctic-model.git
 
 # Install Dependencies: Navigate to the project directory and install the required dependencies using pip:
 
